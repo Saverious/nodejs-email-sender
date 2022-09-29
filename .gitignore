@@ -1,0 +1,8 @@
+bin/
+node_modules/
+public/
+routes/
+views/
+.env
+/app.js
+*.json
